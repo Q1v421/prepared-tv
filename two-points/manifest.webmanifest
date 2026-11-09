@@ -1,0 +1,25 @@
+{
+  "name": "TWO POINTS",
+  "short_name": "TWO POINTS",
+  "description": "두 지점 위를 지나는 나만의 위성",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#8e8e8e",
+  "theme_color": "#8e8e8e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
